@@ -1,0 +1,24 @@
+[2024-03-12T04:20:59.926Z] info: You are not logged in! Please log in to get access. || undefined undefined
+[2024-03-12T04:29:53.556Z] info: You are not logged in! Please log in to get access. || undefined undefined
+[2024-03-12T04:30:05.230Z] info: notNull Violation: User.roleId cannot be null || undefined undefined
+[2024-03-12T04:30:30.343Z] info: notNull Violation: User.roleId cannot be null || undefined undefined
+[2024-03-12T04:30:56.716Z] info: notNull Violation: User.roleId cannot be null || undefined undefined
+[2024-03-12T04:30:59.051Z] info: notNull Violation: User.roleId cannot be null || undefined undefined
+[2024-03-12T04:30:59.740Z] info: notNull Violation: User.roleId cannot be null || undefined undefined
+[2024-03-12T04:31:00.367Z] info: notNull Violation: User.roleId cannot be null || undefined undefined
+[2024-03-12T04:31:01.200Z] info: notNull Violation: User.roleId cannot be null || undefined undefined
+[2024-03-12T04:32:06.312Z] info: Cannot add or update a child row: a foreign key constraint fails (`genesis`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`roleId`) REFERENCES `roles` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE) || undefined undefined
+[2024-03-12T04:32:23.509Z] info: Cannot add or update a child row: a foreign key constraint fails (`genesis`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`roleId`) REFERENCES `roles` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE) || undefined undefined
+[2024-03-20T23:41:12.645Z] info: Cannot add or update a child row: a foreign key constraint fails (`genesis`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`roleId`) REFERENCES `roles` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE) || undefined undefined
+[2024-03-20T23:44:26.856Z] info: Can't find /favicon.ico on this server! || undefined undefined
+[2024-03-20T23:44:30.399Z] info: Can't find /?vscodeBrowserReqId=1710978265365 on this server! || undefined undefined
+[2024-03-20T23:44:31.939Z] info: Can't find / on this server! || undefined undefined
+[2024-03-20T23:44:37.582Z] info: Can't find / on this server! || undefined undefined
+[2024-03-20T23:44:41.612Z] info: Can't find / on this server! || undefined undefined
+[2024-03-20T23:53:45.913Z] info: You are not logged in! Please log in to get access. || undefined undefined
+[2024-03-21T01:35:47.334Z] info: No estas logueado! Por favor inicia sesión para obtener acceso. || undefined undefined
+[2024-03-21T02:14:50.467Z] info: Rol no encontrado! || undefined undefined
+[2024-03-27T02:57:07.375Z] info: Can't find /api/v1/roles-permissions on this server! || undefined undefined
+[2024-03-27T03:01:55.204Z] info: notNull Violation: RolePermission.role_id cannot be null,
+notNull Violation: RolePermission.permission_id cannot be null || undefined undefined
+[2024-03-27T03:11:44.233Z] info: Validation error || undefined undefined
