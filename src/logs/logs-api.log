@@ -22,3 +22,18 @@
 [2024-03-27T03:01:55.204Z] info: notNull Violation: RolePermission.role_id cannot be null,
 notNull Violation: RolePermission.permission_id cannot be null || undefined undefined
 [2024-03-27T03:11:44.233Z] info: Validation error || undefined undefined
+[2024-04-10T01:46:19.922Z] info: Can't find /api/v1/categorias/padres on this server! || undefined undefined
+[2024-04-10T01:46:19.939Z] info: Can't find /api/v1/categorias/padres on this server! || undefined undefined
+[2024-04-10T01:47:22.366Z] info: Can't find /api/v1/categorias/1 on this server! || undefined undefined
+[2024-04-10T01:47:22.372Z] info: Can't find /api/v1/categorias/hijo/1 on this server! || undefined undefined
+[2024-04-10T01:47:22.378Z] info: Can't find /api/v1/categorias/hijo/1 on this server! || undefined undefined
+[2024-04-10T01:47:22.384Z] info: Can't find /api/v1/categorias/1 on this server! || undefined undefined
+[2024-04-10T01:47:26.744Z] info: Can't find /api/v1/categorias/padres on this server! || undefined undefined
+[2024-04-10T01:47:26.751Z] info: Can't find /api/v1/categorias/padres on this server! || undefined undefined
+[2024-04-10T01:59:18.449Z] info: notNull Violation: User.lastName cannot be null,
+notNull Violation: User.dni cannot be null || undefined undefined
+[2024-04-10T02:01:14.283Z] info: notNull Violation: User.roleId cannot be null || undefined undefined
+[2024-04-10T02:01:27.644Z] info: notNull Violation: User.roleId cannot be null || undefined undefined
+[2024-04-10T02:03:08.583Z] info: Validation error || undefined undefined
+[2024-04-10T02:03:27.887Z] info: Validation error || undefined undefined
+[2024-04-10T02:03:36.355Z] info: Validation error || undefined undefined

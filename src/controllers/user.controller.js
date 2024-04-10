@@ -6,15 +6,16 @@ const catchAsync = require("../utils/catchAsync");
 const generateJWT = require("../utils/jwt");
 
 exports.signup = catchAsync(async (req, res, next) => {
-  const { name, email, password, roleId } = req.body;
+  const { name, lastName, dni, email, password, roleId } = req.body;
 
   const hashedPassword = await bcrypt.hash(password, 12);
 
   const user = await User.create({
     name: name.toLowerCase(),
+    lastName: lastName.toLowerCase(),
     email: email.toLowerCase(),
     password: hashedPassword,
-    roleId: roleId,
+    dni: dni,
   });
 
   const token = await generateJWT(user.id);
