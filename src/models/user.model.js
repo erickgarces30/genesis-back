@@ -20,6 +20,11 @@ const User = db.define("User", {
     allowNull: false,
     unique: true,
   },
+  cellphone:{
+    type: DataTypes.STRING,
+    allowNull: false,
+    unique: true,
+  },
 
   email: {
     type: DataTypes.STRING,

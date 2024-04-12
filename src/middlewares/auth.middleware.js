@@ -28,10 +28,11 @@ exports.protect = catchAsync(async (req, res, next) => {
     process.env.SECRET_JWT_SEED
   );
   // 4) Check if user still exists
+  console.log(decoded.id)
   const user = await User.findOne({
     where: {
       id: decoded.id,
-      status: "Activo",
+      status: "Active",
     },
   });
   if (!user) {

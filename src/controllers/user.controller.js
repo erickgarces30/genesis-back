@@ -6,7 +6,7 @@ const catchAsync = require("../utils/catchAsync");
 const generateJWT = require("../utils/jwt");
 
 exports.signup = catchAsync(async (req, res, next) => {
-  const { name, lastName, dni, email, password, roleId } = req.body;
+  const { name, lastName, dni, email, password, cellphone, roleId } = req.body;
 
   const hashedPassword = await bcrypt.hash(password, 12);
 
@@ -16,6 +16,7 @@ exports.signup = catchAsync(async (req, res, next) => {
     email: email.toLowerCase(),
     password: hashedPassword,
     dni: dni,
+    cellphone: cellphone
   });
 
   const token = await generateJWT(user.id);
@@ -81,3 +82,11 @@ exports.deleteUser = catchAsync(async (req, res, next) => {
     message: "User deleted successfully!",
   });
 });
+
+exports.getAll = catchAsync(async (req, res, next) =>{
+  const users = await User.findAll();
+  res.status(200).json({
+    status: "success",
+    users,
+  });
+})

@@ -16,7 +16,7 @@ db.authenticate()
 initModels();
 
 db.sync({
-  force: true,
+  force: false,
 })
   .then(() => {
     console.log("Database synced 😁");

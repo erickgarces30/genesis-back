@@ -37,3 +37,83 @@ notNull Violation: User.dni cannot be null || undefined undefined
 [2024-04-10T02:03:08.583Z] info: Validation error || undefined undefined
 [2024-04-10T02:03:27.887Z] info: Validation error || undefined undefined
 [2024-04-10T02:03:36.355Z] info: Validation error || undefined undefined
+[2024-04-12T03:55:23.255Z] info: Can't find /api/v1/usuarios on this server! || undefined undefined
+[2024-04-12T03:55:23.263Z] info: Can't find /api/v1/usuarios on this server! || undefined undefined
+[2024-04-12T03:56:08.104Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T03:56:16.101Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T03:56:22.039Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T03:56:22.048Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T03:56:24.527Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T03:56:24.535Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T03:57:43.560Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T03:57:43.572Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T03:58:36.692Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T03:58:36.704Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T03:58:47.829Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T03:58:47.840Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:00:49.269Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:00:49.274Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:00:52.201Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:00:52.206Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:01:13.237Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:01:13.244Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:01:32.588Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:01:32.596Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:02:29.453Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:02:29.461Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:06:05.470Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:06:05.477Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:06:11.781Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:06:11.789Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:06:42.866Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:06:42.876Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:06:46.877Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:06:46.885Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:07:26.332Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:07:26.341Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:08:00.448Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:08:00.460Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:08:04.952Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:08:04.960Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:09:02.844Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:09:02.857Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:09:58.187Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:09:58.195Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:10:10.405Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:10:10.412Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:11:04.756Z] info: User with that email not found! || undefined undefined
+[2024-04-12T04:12:26.159Z] info: Can't find /api/v1/users on this server! || undefined undefined
+[2024-04-12T04:12:26.170Z] info: Can't find /api/v1/users on this server! || undefined undefined
+[2024-04-12T04:13:55.097Z] info: Can't find /api/v1/users on this server! || undefined undefined
+[2024-04-12T04:13:57.455Z] info: Can't find /api/v1/users on this server! || undefined undefined
+[2024-04-12T04:13:57.467Z] info: Can't find /api/v1/users on this server! || undefined undefined
+[2024-04-12T04:14:48.087Z] info: No estas logueado! Por favor inicia sesión para obtener acceso. || undefined undefined
+[2024-04-12T04:14:57.091Z] info: No estas logueado! Por favor inicia sesión para obtener acceso. || undefined undefined
+[2024-04-12T04:15:00.233Z] info: No estas logueado! Por favor inicia sesión para obtener acceso. || undefined undefined
+[2024-04-12T04:15:00.239Z] info: No estas logueado! Por favor inicia sesión para obtener acceso. || undefined undefined
+[2024-04-12T04:15:26.410Z] info: No estas logueado! Por favor inicia sesión para obtener acceso. || undefined undefined
+[2024-04-12T04:15:26.414Z] info: No estas logueado! Por favor inicia sesión para obtener acceso. || undefined undefined
+[2024-04-12T04:15:32.088Z] info: Can't find /api/v1/users on this server! || undefined undefined
+[2024-04-12T04:15:44.097Z] info: Can't find /api/v1/users on this server! || undefined undefined
+[2024-04-12T04:15:47.209Z] info: Can't find /api/v1/users on this server! || undefined undefined
+[2024-04-12T04:15:47.219Z] info: Can't find /api/v1/users on this server! || undefined undefined
+[2024-04-12T04:28:33.263Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:28:33.277Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:29:07.424Z] info: notNull Violation: User.cellphone cannot be null || undefined undefined
+[2024-04-12T04:29:15.738Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:29:15.748Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:29:22.027Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:29:22.036Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:29:24.695Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:29:24.704Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:29:30.933Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:29:30.944Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:29:32.006Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:29:32.018Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:29:33.799Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:29:33.802Z] info: El usuario al que pertenece este token ya no existe. || undefined undefined
+[2024-04-12T04:29:47.306Z] info: Can't find /api/v1/categories on this server! || undefined undefined
+[2024-04-12T04:29:47.312Z] info: Can't find /api/v1/products on this server! || undefined undefined
+[2024-04-12T04:29:47.316Z] info: Can't find /api/v1/categories on this server! || undefined undefined
+[2024-04-12T04:29:47.321Z] info: Can't find /api/v1/products on this server! || undefined undefined
+[2024-04-12T04:30:07.676Z] info: notNull Violation: User.cellphone cannot be null || undefined undefined
